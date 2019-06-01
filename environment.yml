@@ -1,0 +1,9 @@
+name: FloPy_tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - flopy
+
